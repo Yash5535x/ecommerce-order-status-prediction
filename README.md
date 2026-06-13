@@ -62,7 +62,8 @@ Original order statuses were grouped into:
 
 ## Models Used
 
-- Random Forest Classifier
+- Logistic Regression
+- Decision Tree Classifier
 - XGBoost Classifier
 
 ---
