@@ -120,7 +120,6 @@ ecommerce-order-status-prediction/
 │
 ├── data/
 ├── notebooks/
-├── models/
 ├── images/
 └── README.md
 ```
